@@ -13,11 +13,11 @@ Accede al siguiente enlace para consultar el Code Lab de Android: [XML Layouts C
 - Git
 
 ### Elementos utilizados para la IU:
-- **EditText: **Se usa para ingresar y editar texto.
-- **TextView: **Este elemento se usa para mostrar texto, como la pregunta sobre el servicio y el monto de la propina.
+- **EditText:** Se usa para ingresar y editar texto.
+- **TextView:** Este elemento se usa para mostrar texto, como la pregunta sobre el servicio y el monto de la propina.
 - **RadioButton:** Es un botón de selección para elegir cada opción de propina.
 - **RadioGroup:** Se usa a efectos de agrupar las opciones del botón de selección.
-- **Switch: **Se trata de un botón de activación/desactivación para elegir si se redondea la propina o no.
+- **Switch:** Se trata de un botón de activación/desactivación para elegir si se redondea la propina o no.
 
 ## Capturas de Pantalla
 
