@@ -34,7 +34,7 @@ Al finalizar el diseño, se toma capturas de pantalla de la vista del editor de 
 
 1. **Clonar el Repositorio**
    ```bash
-   git clone https://github.com/SmilexX98/example.git
+   git clone https://github.com/SmilexX98/TipTime.git
 <p>
   Espero que les sea de utilidad.
 </p>
